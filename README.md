@@ -32,27 +32,26 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Anonymous](https://steipete.me/posts/2025/claude-code-anonymous)
-- [Live Coding Session: Building Arena](https://steipete.me/posts/2025/live-coding-session-building-arena)
-- [Peekaboo 2.0 – Free the CLI from its MCP shackles](https://steipete.me/posts/2025/peekaboo-2-freeing-the-cli-from-its-mcp-shackles)
-- [My AI Workflow for Understanding Any Codebase](https://steipete.me/posts/2025/understanding-codebases-with-ai-gemini-workflow)
-- [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal)
+- [What Gets Remembered — and What Quietly Disappear](https://blog.mycal.net/what-gets-remembered/)
+- [Identity Is Easy. Continuity Is Hard](https://blog.mycal.net/identity-is-easy-continuity-is-hard/)
+- [Local Truth and Canonical Collapse](https://blog.mycal.net/local-truth/)
+- [Why Benchmarks Fail in Analog Systems](https://blog.mycal.net/why-benchmarks-fail/)
+- [Never Twice the Same Color](https://blog.mycal.net/never-twice-the-same-color/)
+- [Proof of Personhood — When Agents Outnumber Humans](https://blog.mycal.net/proof-of-personhood/)
+- [The Descent of Form and the Ascent of Mind](https://blog.mycal.net/the-descent-of-form-and-the-ascent-of-mind/)
 <!-- BLOG-POST-LIST:END -->
 
 
 
 ## What I'm Doing
 
-- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-- **Writing about AI workflows** - Sharing my learnings on [steipete.me](https://steipete.me)
-- **Rapid prototyping** - Full apps in days, not months
-- **[Speaking at conferences](https://github.com/steipete/speaking)** - On vibe coding vs agentic engineering and the future of development
+- *Surfing The Singularity* - Learning everything I can, Building what is possible and beyond
 
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@mycal_1-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mycal_1)
 [![Blog](https://img.shields.io/badge/-blog.mycal.net-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://blog.mycal.net)
-[![LinkedIn](https://img.shields.io/badge/-Mike Johnson-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/mycal/)](https://www.linkedin.com/in/mycal/))
+[![LinkedIn](https://img.shields.io/badge/-Mike Johnson-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mycal/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lowerpower)
 
 
