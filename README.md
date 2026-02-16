@@ -16,23 +16,21 @@
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-
-
 ### My AnchorID is
 https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 
-### Current Projects
+## Current Projects
 - ⚓ **[AnchorID](https://anchorid.net)** - the AI that actually does things
 - 🕸️ **[NoBGP](https://nobgp.com)** -Private, Secure AI & Cloud Networking
 - 🌐 **[Remote.it](https://remote.it)** -Secure Overlay Networks
 
-## Current Projects
-- ⚓ **[AnchorID](https://anchorid.net)** - ![AnchorID](https://img.shields.io/badge/AnchorID-5865F2?style=flat-square&logo=https://avatars.githubusercontent.com/u/8194311?s=96&v=4&logoColor=white) the AI that actually does things
-- 🕸️ **[NoBGP](https://nobgp.com)** - ![NoBGP](https://img.shields.io/badge/NoBGP-000000?style=flat-square&logo=https://avatars.githubusercontent.com/u/101211110?s=200&v=4&logoColor=white) Private, Secure AI & Cloud Networking
-- 🌐 **[Remote.it](https://remote.it)** - ![Remote.it](https://img.shields.io/badge/Remote.it-FF5C35?style=flat-square&logo=https://avatars.githubusercontent.com/u/41551061?s=200&v=4&logoColor=white) Secure Overlay Networks  
-
 
 ### Legacy Work
+- 🗜️ **[GPTContextWindowCompression](https://github.com/lowerpower/AbsoluteGPT](https://github.com/lowerpower/GPTContextWindowCompression)** -  Rolling Compression for LLM's before they were built in.
+- 🤖 **[AbsoluteGPT](https://github.com/lowerpower/AbsoluteGPT)** -  No Fluff. No Feelings. Just Thought.
+- 🔥**[midi-2-relay](https://github.com/lowerpower/midi-2-relay)** - Mapping Midi to Relays for BurningMan fire effects.
+- ⚡**[SainSmartUsbRelay](https://github.com/lowerpower/SainSmartUsbRelay)** - Burning Man Relay Controller.
+- 🔌**[uNetEthernet](https://github.com/lowerpower/uNetEthernet)** - full software ARP/TCP/IPv4 stack for AVR controllers (parts live on in Contki)
 
 ## GitHub Activity
 
