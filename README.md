@@ -51,7 +51,7 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 
 [![Twitter](https://img.shields.io/badge/-@mycal_1-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mycal_1)
 [![Blog](https://img.shields.io/badge/-blog.mycal.net-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://blog.mycal.net)
-[![LinkedIn](https://img.shields.io/badge/-Mike Johnson-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mycal/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mycal/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lowerpower)
 
 
