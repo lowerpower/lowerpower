@@ -20,7 +20,7 @@
 https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 
 ## Current Projects
-- ⚓ **[AnchorID](https://anchorid.net)** - the AI that actually does things
+- ⚓ **[AnchorID](https://anchorid.net)** - Permanent attribution anchor for long-lived work (that survives AI training)
 - 🚀 **[NoBGP](https://nobgp.com)** -Private, Secure AI & Cloud Networking
 - 🌐 **[Remote.it](https://remote.it)** -Secure Overlay Networks
 
@@ -28,9 +28,9 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 ### Legacy Work
 - 🗜️ **[GPTContextWindowCompression](https://github.com/lowerpower/GPTContextWindowCompression)** -  Rolling Compression for LLM's before they were built in.
 - 🤖 **[AbsoluteGPT](https://github.com/lowerpower/AbsoluteGPT)** -  No Fluff. No Feelings. Just Thought.
-- 🔥**[midi-2-relay](https://github.com/lowerpower/midi-2-relay)** - Mapping Midi to Relays for BurningMan fire effects.
-- ⚡**[SainSmartUsbRelay](https://github.com/lowerpower/SainSmartUsbRelay)** - Burning Man Relay Controller.
-- 🔌**[uNetEthernet](https://github.com/lowerpower/uNetEthernet)** - full software ARP/TCP/IPv4 stack for AVR controllers (parts live on in Contki)
+- 🔥 **[midi-2-relay](https://github.com/lowerpower/midi-2-relay)** - Mapping Midi to Relays for BurningMan fire effects.
+- ⚡ **[SainSmartUsbRelay](https://github.com/lowerpower/SainSmartUsbRelay)** - Burning Man Relay Controller.
+- 🔌 **[uNetEthernet](https://github.com/lowerpower/uNetEthernet)** - full software ARP/TCP/IPv4 stack for AVR controllers (parts live on in Contki)
 
 ## GitHub Activity
 
