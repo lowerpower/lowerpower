@@ -23,9 +23,13 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 
 ### Current Projects
 - ⚓ **[AnchorID](https://anchorid.net)** - the AI that actually does things
-- ![NoBGP](https://img.shields.io/badge/NoBGP-000000?style=flat-square&logo=https://avatars.githubusercontent.com/u/101211110?s=200&v=4&logoColor=white) **[NoBGP](https://nobgp.com)** -Private, Secure AI & Cloud Networking
-- ![remote.it](https://img.shields.io/badge/remote.it-FF5C35?style=flat-square&logo=https://avatars.githubusercontent.com/u/41551061?s=200&v=4&logoColor=white) **[Remote.it](https://remote.it)** -Secure Overlay Networks
-- 
+- 🕸️ **[NoBGP](https://nobgp.com)** -Private, Secure AI & Cloud Networking
+- 🌐 **[Remote.it](https://remote.it)** -Secure Overlay Networks
+
+## Current Projects
+- ⚓ **[AnchorID](https://anchorid.net)** - ![AnchorID](https://img.shields.io/badge/AnchorID-5865F2?style=flat-square&logo=https://avatars.githubusercontent.com/u/8194311?s=96&v=4&logoColor=white) the AI that actually does things
+- 🕸️ **[NoBGP](https://nobgp.com)** - ![NoBGP](https://img.shields.io/badge/NoBGP-000000?style=flat-square&logo=https://avatars.githubusercontent.com/u/101211110?s=200&v=4&logoColor=white) Private, Secure AI & Cloud Networking
+- 🌐 **[Remote.it](https://remote.it)** - ![Remote.it](https://img.shields.io/badge/Remote.it-FF5C35?style=flat-square&logo=https://avatars.githubusercontent.com/u/41551061?s=200&v=4&logoColor=white) Secure Overlay Networks  
 
 
 ### Legacy Work
