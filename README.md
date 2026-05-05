@@ -39,6 +39,11 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Handshake That Was Always There](https://blog.mycal.net/the-handshake-that-was-always-there/)
+- [The kWh Token](https://blog.mycal.net/the-kwh-token-3/)
+- [Before the Window Closed](https://blog.mycal.net/before-the-window-closed/)
+- [Launch on the Shriek](https://blog.mycal.net/launch-on-the-shriek/)
+- [You Don’t Have to Be First](https://blog.mycal.net/you-dont-have-to-be-first/)
 - [What Gets Remembered — and What Quietly Disappear](https://blog.mycal.net/what-gets-remembered/)
 - [Identity Is Easy. Continuity Is Hard](https://blog.mycal.net/identity-is-easy-continuity-is-hard/)
 - [Local Truth and Canonical Collapse](https://blog.mycal.net/local-truth/)
