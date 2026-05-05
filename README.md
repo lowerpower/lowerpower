@@ -26,7 +26,7 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 
 
 ### Legacy Work
-- 🗜️ **[GPTContextWindowCompression](https://github.com/lowerpower/GPTContextWindowCompression)** -  Rolling Compression for LLM's before they were built in.
+- 🗜️ **[GPTContextWindowCompression](https://github.com/lowerpower/GPTContextWindowCompression)** -  Rolling Compression for LLM's before it was built in.
 - 🤖 **[AbsoluteGPT](https://github.com/lowerpower/AbsoluteGPT)** -  No Fluff. No Feelings. Just Thought.
 - 🔥 **[midi-2-relay](https://github.com/lowerpower/midi-2-relay)** - Mapping Midi to Relays for BurningMan fire effects.
 - ⚡ **[SainSmartUsbRelay](https://github.com/lowerpower/SainSmartUsbRelay)** - Burning Man Relay Controller.
