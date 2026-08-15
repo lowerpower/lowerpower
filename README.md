@@ -40,6 +40,11 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Market Found the Kilowatt-Hour](https://blog.mycal.net/the-market-found-the-kilowatt-hour/)
+- [Home Starts Showing at the Shake and Fries](https://blog.mycal.net/shake-and-fries/)
+- [North Shore Kinda Heaven](https://blog.mycal.net/north-shore-kinda-heaven/)
+- [The Flight Surgeon Problem](https://blog.mycal.net/the-flight-surgeon-problem/)
+- [Voice Clone Scams and Real-Life Proof of Personhood](https://blog.mycal.net/voice-clone-scams/)
 - [The Handshake That Was Always There](https://blog.mycal.net/the-handshake-that-was-always-there/)
 - [The kWh Token](https://blog.mycal.net/the-kwh-token-3/)
 - [Before the Window Closed](https://blog.mycal.net/before-the-window-closed/)
