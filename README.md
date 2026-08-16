@@ -57,6 +57,7 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 - [Never Twice the Same Color](https://blog.mycal.net/never-twice-the-same-color/)
 - [Proof of Personhood — When Agents Outnumber Humans](https://blog.mycal.net/proof-of-personhood/)
 - [The Descent of Form and the Ascent of Mind](https://blog.mycal.net/the-descent-of-form-and-the-ascent-of-mind/)
+- [Fight Entropy: From Group42 to Mycal Music](https://blog.mycal.net/fight-entropy/)
 <!-- BLOG-POST-LIST:END -->
 
 
