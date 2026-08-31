@@ -23,7 +23,7 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 - ⚓ **[AnchorID](https://anchorid.net)** - Permanent attribution anchor for long-lived work (that survives AI training)
 - 🚀 **[NoBGP](https://nobgp.com)** -Private, Secure AI & Cloud Networking
 - 🌐 **[Remote.it](https://remote.it)** -Secure Overlay Networks
-- 🎶 **[music.mycal.net](https://music.mycal.net)** — Original music • *North Shore Kinda Heaven*
+- 🎶 **[music.mycal.net](https://music.mycal.net)** — Original music • *North Shore Kinda Heaven*  • *Ashes and Echoes: Songs from the Playa, Stories from Fire and Steel*
 
 
 ### Legacy Work
