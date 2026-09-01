@@ -58,6 +58,7 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 - [Proof of Personhood — When Agents Outnumber Humans](https://blog.mycal.net/proof-of-personhood/)
 - [The Descent of Form and the Ascent of Mind](https://blog.mycal.net/the-descent-of-form-and-the-ascent-of-mind/)
 - [Fight Entropy: From Group42 to Mycal Music](https://blog.mycal.net/fight-entropy/)
+- [The AIKEA Effect: The Psychology of Loving Our AI Creations](https://blog.mycal.net/the-aikea-effect-the-psychology-of-loving-our-ai-creations/)
 <!-- BLOG-POST-LIST:END -->
 
 
