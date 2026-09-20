@@ -40,6 +40,7 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Standing by the Record Machine - Chapter One](https://blog.mycal.net/standing-by-the-record-machine-chapter-one/)
 - [The Market Found the Kilowatt-Hour](https://blog.mycal.net/the-market-found-the-kilowatt-hour/)
 - [Home Starts Showing at the Shake and Fries](https://blog.mycal.net/shake-and-fries/)
 - [North Shore Kinda Heaven](https://blog.mycal.net/north-shore-kinda-heaven/)
