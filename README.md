@@ -1,5 +1,7 @@
 ## Hi there, I'm Mycal   👋
 
+- A systems engineer who keeps discovering that reality has undocumented APIs.
+
 📍 **Petaluma**  | **Remote.it** |  **NoBGP**
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -77,15 +79,7 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lowerpower)
 
 
-
-
-
 <!--
-
-
-
-
-
 
 **lowerpower/lowerpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
