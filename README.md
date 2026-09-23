@@ -1,6 +1,6 @@
 ## Hi there, I'm Mycal   👋
 
-- A systems engineer who keeps discovering that reality has undocumented APIs.
+A systems engineer who keeps discovering that reality has undocumented APIs.
 
 📍 **Petaluma**  | **Remote.it** |  **NoBGP**
 
@@ -69,7 +69,7 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 
 ## What I'm Doing
 
-- *Surfing The Singularity* - Learning everything I can, Building what is possible and beyond
+*Surfing The Singularity* — exploring what happens when networks, AI, identity, machines, and people stop being separate systems.
 
 ## Connect
 
