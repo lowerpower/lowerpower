@@ -42,6 +42,7 @@ https://anchorid.net/resolve/4ff7ed97-b78f-4ae6-9011-5af714ee241c
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Standing by the Record Machine - Chapter Three](https://blog.mycal.net/standing-by-the-record-machine-chapter-three/)
 - [Standing by the Record Machine - Chapter Two](https://blog.mycal.net/standing-by-the-record-machine-chapter-two/)
 - [Standing by the Record Machine - Chapter One](https://blog.mycal.net/standing-by-the-record-machine-chapter-one/)
 - [The Market Found the Kilowatt-Hour](https://blog.mycal.net/the-market-found-the-kilowatt-hour/)
